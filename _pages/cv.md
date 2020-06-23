@@ -15,10 +15,10 @@ Education
 
 Skills
 ======
-**HDL**: Verilog </br>
-**Programming Languages**: C/C++, Python, CUDA, Embedded C </br>
-**Hardware Platforms**: Spartan®-3E FPGA, Arduino, Raspberry Pi, ARM LPC2148, Intel 8086 & 8051 </br>
-**EDA/Software Tools**: Cadence PSpice, Virtuoso, Xilinx® ISE, ModelSim, MATLAB, Keil uvision </br>
+**HDL**: Verilog <br>
+**Programming Languages**: C/C++, Python, CUDA, Embedded C <br>
+**Hardware Platforms**: Spartan®-3E FPGA, Arduino, Raspberry Pi, ARM LPC2148, Intel 8086 & 8051 <br>
+**EDA/Software Tools**: Cadence PSpice, Virtuoso, Xilinx® ISE, ModelSim, MATLAB, Keil uvision <br>
 **Open-Source**: Tensorflow </br>
 
 Experience
@@ -59,13 +59,13 @@ Hari Vignesh Baskar, <b>Marjerie Suresh</b>, Abishek Coimbatore Sridhar, Sai Sha
 Honors and Awards
 ======
 
-2019 **Semi-finalist**, Smart India Hackathon 2019 – Hardware Edition </br>
-2018 **Funding for “Autonomous Rubik’s Cube Solver”** (INR ₹24,000), The SSN Trust </br>
+2019 **Semi-finalist**, Smart India Hackathon 2019 – Hardware Edition <br>
+2018 **Funding for “Autonomous Rubik’s Cube Solver”** (INR ₹24,000), The SSN Trust <br>
 2017 **Innovator of the year - Runner**, IEEE Communications Society 
 
 Volunteer Experience
 ======
 
-2019 **Reviewer**, IEEE Texas Power and Energy Conference (TPEC) - 2020 </br>
-2019 **Event Head**, National Technical Fest - Invente </br>
+2019 **Reviewer**, IEEE Texas Power and Energy Conference (TPEC) - 2020 <br>
+2019 **Event Head**, National Technical Fest - Invente <br>
 2018 **Organiser**, Digital Electronics Workshop - IEEE Communications Society 	
