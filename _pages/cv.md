@@ -24,20 +24,20 @@ Skills
 Experience
 ======
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
-*Apr 2018 - Jun 2020*
+*April 2018 - June 2020*
 *  **Work 1: Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario** 						    	    
-  *Apr 2018 - Mar 2019*
+  *April 2018 - March 2019*
     *	Designed a dynamic load profile for agricultural demand in rural India with crop yield and weather data.
     *	Developed an intelligent algorithm on Python to promote efficient energy utilization.
     *	Improves the system efficiency by 10.5 percent and agricultural efficiency by 13 percent.
     *	Published in 2019 IEEE Global Humanitarian Technology Conference proceedings. [(here)](https://ieeexplore.ieee.org/abstract/document/9033013)
 *  **Work 2: Smart Energy Routing For Rural Islanded Microgrid Clusters**               
-  *Apr 2019 - Nov 2019*
+  *April 2019 - November 2019*
     *	Built an algorithm using Python to solve a multi-variable optimization problem to maximize the utilization of energy resources in a rural microgrid cluster.
     *	Reduces cost of system by 11.3 percent and improves the efficiency by 4.9 percent.
     *	Published in 2020 IEEE Texas Power and Energy Conference proceedings. [(here)](https://ieeexplore.ieee.org/document/9042508) </br>
 *  **Work 3: Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters**                 								  
-  *Nov 2019 - May 2020*
+  *November 2019 - May 2020*
     *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.
     *	Enhances the irrigation load efficiency by 9.1 percent and amount of irrigation by 22.6 percent.
 
