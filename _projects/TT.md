@@ -4,7 +4,6 @@ collection: projects
 permalink: /projects/TT
 
 --- 
-{% include base_path %}
 
 ## Introduction
 
