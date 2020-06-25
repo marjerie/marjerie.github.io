@@ -26,12 +26,11 @@ Experience
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
 *April 2018 - June 2020*
 * Researched and worked on the development of intelligent optimisation algorithms for Indian rural microgrid systems to improve system efficiency, agricultural productivity and energy utilization.
-*  **[Work 1](https://marjerie.github.io/projects/GHTC):** Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario 	    
-  *April 2018 - March 2019*
-*  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
-  *April 2019 - November 2019*
-*  **Work 3:** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters                 								  
-  *November 2019 - May 2020*
+  *  **[Work 1](https://marjerie.github.io/projects/GHTC):** Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario <br>	     *April 2018 - March 2019*
+  *  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
+      *April 2019 - November 2019*
+  *  **Work 3:** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters                 								  
+     *November 2019 - May 2020*
     *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.
     *	Enhances the irrigation load efficiency by 9.1 percent and amount of irrigation by 22.6 percent.
 
