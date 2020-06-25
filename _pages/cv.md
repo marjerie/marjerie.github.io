@@ -35,7 +35,7 @@ Experience
   *April 2019 - November 2019*
     *	Built an algorithm using Python to solve a multi-variable optimization problem to maximize the utilization of energy resources in a rural microgrid cluster.
     *	Reduces cost of system by 11.3 percent and improves the efficiency by 4.9 percent.
-    *	Published in 2020 IEEE Texas Power and Energy Conference proceedings. [(here)](https://ieeexplore.ieee.org/document/9042508) </br>
+    *	Published in 2020 IEEE Texas Power and Energy Conference proceedings. [(here)](https://ieeexplore.ieee.org/document/9042508) <br>
 *  **Work 3: Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters**                 								  
   *November 2019 - May 2020*
     *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.
@@ -44,6 +44,11 @@ Experience
 **Vetronics Trainee**, CVRDE, Defence Research and Development Organisation 										      
 *May 2019*
 *	Extensive hands-on training in the architecture, components and functioning of automotive, fire detection and suppression and laser warning and countermeasure systems in Main Battle Tanks.
+
+Projects
+======
+
+Projects done can be found [here](https://marjerie.github.io/projects/).
 
 Publications
 ======
