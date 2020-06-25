@@ -2,6 +2,9 @@
 title: "Clock/Time Table/Reminder System for Classrooms"
 collection: projects
 permalink: /projects/TT
+author_profile: true
+redirect_from:
+  - /resume
 ---  
 
 ## Introduction
