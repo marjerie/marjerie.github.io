@@ -19,7 +19,7 @@ Skills
 **Programming Languages**: C/C++, Python, CUDA, Embedded C <br>
 **Hardware Platforms**: Spartan®-3E FPGA, Arduino, Raspberry Pi, ARM LPC2148, Intel 8086 & 8051 <br>
 **EDA/Software Tools**: Cadence PSpice, Virtuoso, Xilinx® ISE, ModelSim, MATLAB, Keil uvision <br>
-**Open-Source**: Tensorflow </br>
+**Open-Source**: Tensorflow <br>
 
 Experience
 ======
