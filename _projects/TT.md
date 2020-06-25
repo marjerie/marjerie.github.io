@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Clock/Time Table/Reminder System for Classrooms"
 collection: projects
 permalink: /projects/TT
