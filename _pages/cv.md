@@ -61,6 +61,14 @@ Publications
 Hari Vignesh Baskar, <b>Marjerie Suresh</b>, Abishek Coimbatore Sridhar, Sai Shankar Muthukrishnan, Vineeth Vijayaraghavan.<br>
 <i>2019 IEEE Global Humanitarian Technology Conference (GHTC)</i>.
 
+Courses and Certifications
+======
+
+* GPU Architecture and Programming, IIT Kharagpur (OCW)
+* Multi-Core Computer Architecture - Storage and Interconnects, IIT Guwahati (OCW)
+* [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), IIT Madras
+* [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), IIT Madras & Google
+
 Honors and Awards
 ======
 
