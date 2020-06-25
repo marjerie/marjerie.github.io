@@ -3,7 +3,8 @@ title: "Clock/Time Table/Reminder System for Classrooms"
 collection: projects
 permalink: /projects/TT
 
----  
+--- 
+{% include base_path %}
 
 ## Introduction
 
