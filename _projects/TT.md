@@ -1,8 +1,11 @@
 ---
-layout: archive
 title: "Clock/Time Table/Reminder System for Classrooms"
 collection: projects
+type: "Project"
 permalink: /projects/TT
+venue: "SSNCE"
+date: 2018-04-15
+location: "Chennai, India"
 
 --- 
 
