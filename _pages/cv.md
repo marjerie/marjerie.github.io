@@ -30,9 +30,9 @@ Experience
   *  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
       *April 2019 - November 2019*
   *  **Work 3:** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters                 								  
-     *November 2019 - May 2020*
-    *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.
-    *	Enhances the irrigation load efficiency by 9.1 percent and amount of irrigation by 22.6 percent.
+     *November 2019 - May 2020* <br>
+         *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.<br>
+         *	Enhances the irrigation load efficiency by 9.1 percent and amount of irrigation by 22.6 percent.
 
 **Vetronics Trainee**, CVRDE, Defence Research and Development Organisation 										      
 *May 2019*
