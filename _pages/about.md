@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student pursuing a Bachelor's degree in Electronics and Communications Engineering from Sri Sivasubramaniya Nadar College of Engineering. I work on algorithm development for rural smart grid systems at the Solarillion Foundation. My interests also include research in Computer Architecture and Parallel Computing. 
+I am an undergraduate student pursuing a Bachelor's degree in Electronics and Communications Engineering from Sri Sivasubramaniya Nadar College of Engineering. My interests include research in Computer Architecture and Parallel Computing. 
