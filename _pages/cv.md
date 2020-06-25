@@ -66,8 +66,8 @@ Courses and Certifications
 
 * GPU Architecture and Programming, IIT Kharagpur (OCW)
 * Multi-Core Computer Architecture - Storage and Interconnects, IIT Guwahati (OCW)
-* [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), IIT Madras
-* [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), IIT Madras & Google
+* [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), NPTEL, IIT Madras
+* [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), NPTEL, IIT Madras & Google
 
 Honors and Awards
 ======
