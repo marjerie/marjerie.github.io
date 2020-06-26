@@ -81,7 +81,7 @@ SMOTE outperformed Random Undersampling as seen in Tables 5 and 6. Random Forest
 Regression was performed on the data having an arrival delay to predict the amount of delay in minutes in the test dataset as shown in Table 7. Amongst the different regression algorithms used, the three regression algorithms that best fit our problem were namely: Random Forest, Gradient Boosting and Extra Trees and the results obtained are tabulated in Table 8.
 
 <p align="center">
-  <img src="https://marjerie.github.io/files/t7.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://marjerie.github.io/files/t7.jpg?raw=true" alt="Photo" height="50%" width="50%"/> 
 </p>
 
 Hyper Parameter Tuning was carried out to improve the regression results on a trial and error basis. Grid search with cross validation was used to determine the best parameters. This evaluates all possible combinations of the parameters defined in the algorithm.
