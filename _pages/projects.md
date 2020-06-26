@@ -13,17 +13,9 @@ redirect_from:
 Tools used: C++, OMNeT++, SUMO <br>
 *August 2019 - February 2020*
 
-<b>[Smart Energy Routing For Rural Islanded Microgrid Clusters](https://marjerie.github.io/projects/TPEC)</b> <br>
-Tools used: Python <br>
-*April 2019 - November 2019*
-
 <b>[Portable Optical Character Recogniser](https://marjerie.github.io/projects/OCR)</b> <br>
 Tools used: Python, Raspberry Pi, Pi Camera, Tesseract-ocr <br>
 *April 2019 - July 2019*
-
-<b>[Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario](https://marjerie.github.io/projects/GHTC)</b> <br>
-Tools used: Python <br>
-*April 2018 - March 2019*
 
 <b>[Machine Learning approach on On-Time Performance of Flights](https://marjerie.github.io/projects/ML)</b> <br>
 Tools used: Python, Sci-kit learn <br>
