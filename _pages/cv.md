@@ -29,7 +29,7 @@ Experience
   *  **[Work 1](https://marjerie.github.io/projects/GHTC):** Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario <br>	     *April 2018 - March 2019*
   *  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
       *April 2019 - November 2019*
-  *  **[Work 3]((https://marjerie.github.io/projects/TPEC)):** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters <br>        			 *November 2019 - May 2020* <br>
+  *  **[Work 3](https://marjerie.github.io/projects/TPEC):** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters <br>        			 *November 2019 - May 2020* <br>
 
 **Vetronics Trainee**, CVRDE, Defence Research and Development Organisation 										      
 *May 2019*
