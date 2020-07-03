@@ -25,15 +25,11 @@ Experience
 ======
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
 *April 2018 - June 2020*
-* Researched and worked on the development of intelligent optimisation algorithms for Indian rural microgrid systems to improve system efficiency, agricultural productivity and energy utilization.
+* Researched and developed intelligent algorithms using Python for Indian rural microgrid systems to improve system efficiency, agricultural productivity and energy utilization.
   *  **[Work 1](https://marjerie.github.io/projects/GHTC):** Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario <br>	     *April 2018 - March 2019*
   *  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
       *April 2019 - November 2019*
-  *  **Work 3:** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters                 								  
-     *November 2019 - May 2020* <br>
-         *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.<br>
-         *	Enhances the irrigation load efficiency by 9.1 percent and amount of irrigation by 22.6 percent. <br>
-         *  Accepted for presentation at the 2020 Annual IEEE Global Humanitarian Technology Conference.
+  *  **[Work 3]((https://marjerie.github.io/projects/TPEC)):** Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters <br>        			 *November 2019 - May 2020* <br>
 
 **Vetronics Trainee**, CVRDE, Defence Research and Development Organisation 										      
 *May 2019*
@@ -43,6 +39,14 @@ Projects
 ======
 
 Projects done can be found [here](https://marjerie.github.io/projects/).
+
+Courses and Certifications
+======
+
+* GPU Architecture and Programming, IIT Kharagpur (OCW)
+* Multi-Core Computer Architecture - Storage and Interconnects, IIT Guwahati (OCW)
+* [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), NPTEL, IIT Madras
+* [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), NPTEL, IIT Madras & Google
 
 Publications
 ======
@@ -54,14 +58,6 @@ Publications
 <b>[Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario](https://ieeexplore.ieee.org/abstract/document/9033013)</b><br> 
 Hari Vignesh Baskar, <b>Marjerie Suresh</b>, Abishek Coimbatore Sridhar, Sai Shankar Muthukrishnan, Vineeth Vijayaraghavan.<br>
 <i>2019 IEEE Global Humanitarian Technology Conference (GHTC)</i>.
-
-Courses and Certifications
-======
-
-* GPU Architecture and Programming, IIT Kharagpur (OCW)
-* Multi-Core Computer Architecture - Storage and Interconnects, IIT Guwahati (OCW)
-* [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), NPTEL, IIT Madras
-* [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), NPTEL, IIT Madras & Google
 
 Honors and Awards
 ======
