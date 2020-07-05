@@ -51,11 +51,11 @@ Courses and Certifications
 Publications
 ======
 
-<b>[Smart Energy Routing For Rural Islanded Microgrid Clusters](https://ieeexplore.ieee.org/document/9042508)</b> <br> 
+<b>[Smart Energy Routing For Rural Islanded Microgrid Clusters](https://marjerie.github.io/projects/TPEC)</b> <br> 
 <b>Marjerie Suresh</b>, Janani Jayaraman, Karthni Lakshmanan, Aswin Gopikanna, Vineeth Vijayaraghavan.<br>
 <i>2020 IEEE Texas Power and Energy Conference (TPEC)</i>.
 
-<b>[Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario](https://ieeexplore.ieee.org/abstract/document/9033013)</b><br> 
+<b>[Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario](https://marjerie.github.io/projects/GHTC)</b><br> 
 Hari Vignesh Baskar, <b>Marjerie Suresh</b>, Abishek Coimbatore Sridhar, Sai Shankar Muthukrishnan, Vineeth Vijayaraghavan.<br>
 <i>2019 IEEE Global Humanitarian Technology Conference (GHTC)</i>.
 
