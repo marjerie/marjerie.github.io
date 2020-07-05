@@ -10,8 +10,12 @@ location: "Texas, USA"
 
 ## Overview
 
-*	Built an algorithm using Python to solve a multi-variable optimization problem to maximize the utilization of energy resources in a rural microgrid cluster.
+*	Developed the Smart Energy Routing Algorithm (SERA) using Python to maximize the utilization of energy resources in a rural microgrid cluster.
 *	Reduces cost of system by 11.3 percent and improves the efficiency by 4.9 percent.
 *	Published in 2020 IEEE Texas Power and Energy Conference proceedings. [(here)](https://ieeexplore.ieee.org/document/9042508) <br>
 
 **The code of the work is found [here](https://github.com/marjerie/Energy-Routing-Algorithm-For-Microgrid-Clusters).**
+
+## Abstract
+
+This paper proposes a generic architectural design for a microgrid cluster using a smart energy routing scheme resulting in effective utilization of excess energy and mitigated overall cost. The Clustered Microgrid Design (CMD) presents the Storage Agent Replacement Optimization (SARO) technique which uses intelligent throughput estimation to corroborate accurate replacement cycle of the system, a Smart Energy Routing Algorithm (SERA) that efficiently captures and utilises excess solar energy which is shared within the integrated microgrid cluster and an Energy Storage Optimization (ESO) technique that enhances the CMD by resizing the storage agents. The CMD determines the optimised systems for cost and efficiency at various Capacity Shortages (CS). The proposed framework is implemented for a cluster of three interconnected microgrids, where a decrease of 11.29% in Lifetime Cost is observed for a 10% CS and an efficiency gain of 4.99% is discerned for a CS of 20%.
