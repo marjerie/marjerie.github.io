@@ -11,7 +11,7 @@ location: "Washington, USA"
 ## Overview
 
 *	Designed a dynamic load profile for agricultural demand in rural India with crop yield and weather data.
-*	Developed an intelligent algorithm on Python to promote efficient energy utilization.
+*	Developed the Smart Energy Transfer Algorithm (SETA) on Python to promote interconnection of systems and efficient energy transfer and utilization.
 *	Improves the system efficiency by 10.5 percent and agricultural efficiency by 13 percent.
 *	Published in 2019 IEEE Global Humanitarian Technology Conference proceedings. [(here)](https://ieeexplore.ieee.org/abstract/document/9033013)
 
