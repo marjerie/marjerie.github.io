@@ -24,7 +24,7 @@ Skills
 Experience
 ======
 
-**Research Intern**, IIT Madras
+**Research Intern**, IIT Madras <br>
 *June 2020 - Present*
 * Working under Dr. Rupesh Nasre on parallelising a representation of graphs using bloom filter called bloom trees for GPUs using CUDA programming.
 * This reduces the time and space complexity of implementation of bloom trees. 
