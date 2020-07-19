@@ -41,7 +41,7 @@ Half turns are indicated by appending a 2. A counterclockwise quarter turn is in
   <img src="https://marjerie.github.io/files/RCS_ka.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-The [programme](https://github.com/marjerie/Rubiks-Solver) in the Arduino UNO reads the output string and sends control signals to the stepper motor drivers. The control signals are sent sequentially 
+The [program](https://github.com/marjerie/Rubiks-Solver) in the Arduino UNO reads the output string and sends control signals to the stepper motor drivers. The control signals are sent sequentially 
 to a particular motor driver which rotates the specific stepper motor which in turn rotates the face of the cube. The control signals are consecutively sent 
 to the motor drivers with a small time delay to ensure proper rotation of faces of the cube. After all the rotation moves are performed on the cube by the grippers, 
 the Rubik’s cube is completely solved.
