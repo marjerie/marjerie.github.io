@@ -23,14 +23,15 @@ Skills
 
 Experience
 ======
-
+<!---
 **Research Intern**, IIT Madras <br>
 *June 2020 - Present*
 * Working under Dr. Rupesh Nasre on parallelising a representation of graphs using bloom filter called bloom trees for GPUs using CUDA programming.
 * This reduces the time and space complexity of implementation of bloom trees. 
+-->
 
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
-*April 2018 - June 2020*
+*April 2018 - Present*
 * Researched and developed algorithms using Python for Indian rural microgrid systems to improve system efficiency, agricultural productivity and energy utilization.
   *  **[Work 1](https://marjerie.github.io/projects/GHTC):** Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario <br>	     *April 2018 - March 2019*
   *  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
