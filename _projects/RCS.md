@@ -19,15 +19,19 @@ stepper motors.
 ## Components
 
 **Stepper Motors**
+
 NEMA 17 and NEMA 23 are the two varieties of stepper motors used. Two NEMA 23 motors and four NEMA 17 motors were used for the Bot. The NEMA 17 can be used as a unipolar or bipolar stepper motor and has a 1.8° step angle (200 steps/revolution). Each phase draws 1.2 A at 4 V, allowing for a holding torque of 3.2 kg-cm. Since the torque required to rotate the face of the Rubik’s cube is low, NEMA 17 was used. Four of these are used to manipulate the four grippers which in turn rotate the faces of the cube as required. The NEMA 23 bipolar stepper motor has a 1.8° step angle (200 steps/revolution). Each phase draws 2.8 A at 3.2 V, allowing for a holding torque of 19 kg-cm. NEMA 23, due to its higher torque, was used to move the platforms lodging the NEMA 17 motors.
 
 **Arduino UNO**
+
 Arduino Uno was the microcontroller that was used for the bot due to its high functionality in interfacing, synchronizing and controlling the six stepper motors. The Arduino reads the solution string from the Kociemba algorithm’s output. The solution string indicates the specific moves required to solve the cube. Each move in the string is extracted and carried out by invoking its corresponding function which is coded as a program in C language using the Arduino IDE. These invoked functions enable the Arduino to send appropriate control signals to the stepper motor to solve the cube. 
 
 **Motor Driver**
+
 Motor Drivers are current amplifiers. They act as a bridge between the controller and the motor in a motor drive. For efficient functioning of the stepper motors, various stepper motor drivers were experimented. L293D and DRV6625 were initially tested, but its functionalities and features were limited and its design proved to be inefficient in the long run. Hence, TB6600 was preferred because of its high voltage and current capacities and its ability to prevent back emf which is a vital precaution parameter when stepper motors are used. It also has overheat, over current and short circuit protection.
 
 **Switched Mode Power Supply**
+
 The two types of stepper motors used namely NEMA 17 and NEMA 23 have different specifications each. The NEMA 17 stepper motor draws 1.2 A at 4V while NEMA 23 stepper motor draws 2.8 A at 3.2 V for each phase. Hence, a power supply with high current capability was required. To give the necessary torque required for NEMA 17 to rotate the face of the Rubik’s cube and for NEMA 23 to move the platform in turn displacing two NEMA 17 stepper motors, high voltage is required. So we chose the Switched Mode Power Supply (SMPS) for the Rubik’s Cube Solver Bot. The NEMA 17 stepper motors used the 12V, 10A SMPS and the NEMA 23 steppers motors utilized the 24V, 10A SMPS. 
 
 ## Mechanical Assembly
@@ -45,10 +49,12 @@ The grippers were made using acrylic sheets and are attached to the shaft of the
 ## Working
 
 **Input Current State**
+
 The current state of the Rubik’s Cube ie. the information of the colours on the faces of the unsolved cube are inputted to the computer. 
 The code used for colour recognition is given [here](https://github.com/marjerie/Rubiks-colourrecognition).
 
 **Kociemba's Algorithm**
+
 Kociemba’s Algorithm is applied to the input on python and the optimum solution to solve the cube is computed and it is outputted in the form of a string data type. 
 The output string is in the form of the "Singmaster notation", which was developed by David Singmaster. 
 The letters L, R, F, B, U, and D indicate a clockwise quarter-turn of the left, right, front, back, up, and down face respectively. 
