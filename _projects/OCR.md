@@ -46,8 +46,7 @@ smoothening the image. Then, thresholding is done to convert the image to binary
 dilation is performed on the image. This resulting noise free image is then given as input to the Pytesseract module. The extracted text is displayed on the LED display. This
 text can be matched with data in database to retrieve certain details, information, etc.
 
-<p align="center">
-  <img src="https://marjerie.github.io/files/OCR_op.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+## Watch the video explanation and demonstration!!
 
+[![SIH 2019 Team Buzzinga-Portable Handheld Optical Character Recogniser](https://marjerie.github.io/files/OCR_op.jpg?raw=true)](https://youtu.be/K0aLYpZz6LA "SIH 2019 Team Buzzinga-Portable Handheld Optical Character Recogniser")
 
