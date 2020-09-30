@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>[Air Pollution based Vehicle Routing Algorithm](https://marjerie.github.io/projects/FYP)</b> <br>
+<b>[Air Pollution based Routing Algorithm for VANETs](https://marjerie.github.io/projects/FYP)</b> <br>
 Tools used: C++, OMNeT++, SUMO <br>
 *August 2019 - February 2020*
 
