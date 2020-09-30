@@ -35,10 +35,6 @@ The project uses a Tesseract OCR engine which uses LSTM based neural networks to
 efficient character recognition. The python bindings of the Tesseract called Pytesseract is used. For this to work optimally, the captured image should be free from
 background noise, hence we perform some pre-processing on the image.
 
-<p align="center">
-  <img src="https://marjerie.github.io/files/OCR_dem.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
 **Image Processing Pipeline**
 
 The image captured is converted from RGB format to Grayscale for efficient image processing. To this, a bilateral filter is added to preserve the edges and reduce the noise by 
@@ -46,7 +42,11 @@ smoothening the image. Then, thresholding is done to convert the image to binary
 dilation is performed on the image. This resulting noise free image is then given as input to the Pytesseract module. The extracted text is displayed on the LED display. This
 text can be matched with data in database to retrieve certain details, information, etc.
 
+<p align="center">
+  <img src="https://marjerie.github.io/files/OCR_op.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 ## Watch the video explanation and demonstration!!
 
-[![SIH 2019 Team Buzzinga-Portable Handheld Optical Character Recogniser](https://marjerie.github.io/files/OCR_op.jpg?raw=true)](https://youtu.be/K0aLYpZz6LA "SIH 2019 Team Buzzinga-Portable Handheld Optical Character Recogniser")
+[![SIH 2019 Team Buzzinga-Portable Handheld Optical Character Recogniser](https://marjerie.github.io/files/OCR_dem.jpg?raw=true)](https://youtu.be/K0aLYpZz6LA "SIH 2019 Team Buzzinga-Portable Handheld Optical Character Recogniser")
 
