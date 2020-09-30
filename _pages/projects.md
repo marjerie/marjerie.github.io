@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>[Air Pollution based Routing Algorithm for VANETs](https://marjerie.github.io/projects/FYP)</b> <br>
+<b>[Air Pollution based Vehicle Routing Algorithm](https://marjerie.github.io/projects/FYP)</b> <br>
 Tools used: C++, OMNeT++, SUMO <br>
 *August 2019 - February 2020*
 
@@ -21,7 +21,7 @@ Tools used: Python, Raspberry Pi, Pi Camera, Tesseract-ocr <br>
 Tools used: Python, Sci-kit learn <br>
 *July 2018 - October 2018*
 
-<b>[Autonomous Rubik’s Cube Solver](https://marjerie.github.io/projects/RCS)</b> <br>
+<b>[Rubik’s Cube Solver Bot](https://marjerie.github.io/projects/RCS)</b> <br>
 Tools used: Arduino, Stepper Motors, TB6600 Driver <br>
 *June 2018 - October 2019*
 
