@@ -16,6 +16,10 @@ stepper motors.
 
 **Code for the project is found [here](https://github.com/marjerie/Rubiks-Solver).**
 
+<p align="center">
+  <img src="https://marjerie.github.io/files/RBS.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 ## Components
 
 **Stepper Motors**
@@ -36,10 +40,6 @@ The two types of stepper motors used namely NEMA 17 and NEMA 23 have different s
 
 ## Mechanical Assembly
 
-<p align="center">
-  <img src="https://marjerie.github.io/files/RBS_ma.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
 The frame of the Bot was fabricated using aluminium as it is a lightweight material and so it makes the structure portable. 
 The four grippers, used to rotate the faces of the cube, are manipulated using four NEMA 17 stepper motors which are mounted on a platform. 
 These platforms are placed on aluminium rails and are connected to two NEMA 23 stepper motors which aid in its back and forth movement. 
@@ -47,7 +47,7 @@ A NEMA 23 stepper motor, which is positioned below the rails, helps with the mot
 The grippers were made using acrylic sheets and are attached to the shaft of the corresponding stepper motors.
 
 <p align="center">
-  <img src="https://marjerie.github.io/files/RBS.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://marjerie.github.io/files/RBS_ma.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 ## Working
