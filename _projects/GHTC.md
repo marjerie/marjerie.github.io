@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario"
-collection: projects
+collection: paper
 type: "Project"
 permalink: /projects/GHTC
 venue: "2019 IEEE Global Humanitarian Technology Conference (GHTC)"
