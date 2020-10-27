@@ -1,6 +1,6 @@
 ---
 title: "Air Pollution based Routing Algorithm for VANETs"
-collection: projects
+collection: paper
 type: "Project"
 permalink: /projects/FYP
 venue: "National Conference on Information and Communication Technologies (NCICT)"
