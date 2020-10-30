@@ -23,12 +23,10 @@ Skills
 
 Experience
 ======
-<!---
-**Research Intern**, IIT Madras <br>
-*June 2020 - Present*
-* Working under Dr. Rupesh Nasre on parallelising a representation of graphs using bloom filter called bloom trees for GPUs using CUDA programming.
-* This reduces the time and space complexity of implementation of bloom trees. 
--->
+**Project Intern**, IIT Madras <br>
+*June 2020 - October 2020*
+* Worked on the CUDA implementation of Parallel BloomTree - a space-efficient approximate representation for graphs using bloom filters for GPU under Dr. Rupesh Nasre.
+* Tested the performance of the implementation on the Breadth-first search, Greedy vertex colouring and Tarjan's strongly connected components algorithms.
 
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
 *April 2018 - Present*
