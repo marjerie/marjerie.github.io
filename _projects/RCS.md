@@ -77,7 +77,31 @@ The stepper motors are controlled by the Arduino UNO via the motor driver, TB660
 The [program](https://github.com/marjerie/Rubiks-Solver) in the Arduino UNO reads the output string and sends control signals to the stepper motor drivers. 
 The sequence followed by the different stepper motors for each of the movements required to the solve the Rubik’s cube namely R, L, F, B, D, U, R2, L2, F2, B2, D2, U2, R’, L’, F’, B’, D’ and U’ in the Singmaster Notation are given in the tables below. The identification of the stepper motors and the faces of the Rubik’s cube are shown in Figure.
 
+<p align="center">
+  <img src="https://marjerie.github.io/files/RCS_1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://marjerie.github.io/files/RCS_2.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://marjerie.github.io/files/RCS_3.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://marjerie.github.io/files/RCS_4.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 The functions coded in the program which are invoked correspondingly to solve the Rubik’s cube are shown in the tables below. They also include the inputs that are required to be provided and action performed when the function is called.
+
+<p align="center">
+  <img src="https://marjerie.github.io/files/RCS_5.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+<p align="center">
+  <img src="https://marjerie.github.io/files/RCS_6.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 The control signals are sent sequentially 
 to a particular motor driver which rotates the specific stepper motor which in turn rotates the face of the cube. The control signals are consecutively sent 
