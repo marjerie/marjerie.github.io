@@ -24,12 +24,13 @@ Skills
 Experience
 ======
 **Project Intern**, IIT Madras <br>
-*June 2020 - October 2020*
+*June 2020 - October 2020* <br>
+**[(See Work)](https://marjerie.github.io/projects/GHTC)**
 * Worked on the CUDA implementation of Parallel BloomTree - a space-efficient approximate representation for graphs using bloom filters for GPU under Dr. Rupesh Nasre.
 * Tested the performance of the implementation on the Breadth-first search, Greedy vertex colouring and Tarjan's strongly connected components algorithms.
 
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
-*April 2018 - Present*
+*April 2018 - May 2020*
 * Researched and developed algorithms using Python for Indian rural microgrid systems to improve system efficiency, agricultural productivity and energy utilization.
   *  **[Work 1](https://marjerie.github.io/projects/GHTC):** Intelligent Interconnection of Operating Micro-Grid and Irrigation System in Dharnai - A Rural Indian Scenario <br>	     *April 2018 - March 2019*
   *  **[Work 2](https://marjerie.github.io/projects/TPEC):** Smart Energy Routing For Rural Islanded Microgrid Clusters               
