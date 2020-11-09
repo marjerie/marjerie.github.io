@@ -25,7 +25,7 @@ Experience
 ======
 **Project Intern**, IIT Madras <br>
 *June 2020 - October 2020* <br>
-**[(See Work)](https://marjerie.github.io/projects/GHTC)**
+**[(See Work)](https://marjerie.github.io/projects/BT)**
 * Worked on the CUDA implementation of Parallel BloomTree - a space-efficient approximate representation for graphs using bloom filters for GPU under Dr. Rupesh Nasre.
 * Tested the performance of the implementation on the Breadth-first search, Greedy vertex colouring and Tarjan's strongly connected components algorithms.
 
