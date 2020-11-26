@@ -42,14 +42,20 @@ any other thread, which has completed its execution, has not found a missing bit
 
 ## Performance Evaluation
 
-The defined functions were tested on a set of three algorithms, Breadth First Search (BFS), Vertex Coloring (VC) and Strongly Connected Components (SCC),
+The defined functions were tested on a set of three algorithms, Breadth First Search (BFS), Vertex Coloring (VC), and Strongly Connected Components (SCC),
 to assess their performance. The GPU device used was NVIDIA Tesla T4 on Google Colaboratory. Four graphs from the SNAP dataset [2] were chosen to run the algorithms.
 
 **Test Data**
 
-**Preprocessing**
+The dataset to test the implementation was obtained from the Stanford Network Analysis Platform (SNAP) [2]. From the different types of dataset available, one graph each from the social network, communication network, collaboration network and autonomous systems graph was chosen. The characteristics of the chosen graphs are shown in Table 1.
+
+<p align="center">
+  <img src="https://marjerie.github.io/files/BT1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 **Evaluation parameter**
+
+The **Execution Time** is the evaluation parameter considered. It is measured in ms. This is the time taken to run the algorithms assuming that the data is already present in the GPU. That is, the transfer time for data from CPU to GPU and vice versa are ignore
 
 **Breadth First Search (BFS)**
 
@@ -60,18 +66,17 @@ to assess their performance. The GPU device used was NVIDIA Tesla T4 on Google C
 **Results and Discussion**
 
 <p align="center">
-  <img src="https://marjerie.github.io/files/BT1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://marjerie.github.io/files/BT2.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-From the Table 1, we can observe that the time taken for tree creation is dependent on the number of edges and hence, the time taken for Graph CA-AstroPh is the largest. 
-On the other hand, the time taken for the three algorithms is dependent on the number of vertices rather than the number of edges and accordingly the time that is 
-taken increases as the number of vertices increases.
+From the Table 2, we can observe that the time taken for tree creation is dependent on the number of edges and hence, the execution time for Graph CA-AstroPh is the largest. 
+On the other hand, the time taken for the three algorithms is dependent on the number of vertices rather than the number of edges and accordingly the execution time increases as the number of vertices increases.
 
 ## References
 
 1. Wang, Xingbo. (2015). Properties of the Lowest Common Ancestor in a Complete Binary Tree. International Journal of Scientific and Innovative Mathematical Research. 3. 12-17.
 
-2. Stanford Large Network Dataset Collection - [http://snap.stanford.edu/data/](http://snap.stanford.edu/data/)
+2. Stanford Large Network Dataset Collection (SNAP) - [http://snap.stanford.edu/data/](http://snap.stanford.edu/data/)
 
 
 
