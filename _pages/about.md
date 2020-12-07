@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-* I will be joining Univerisity of California, Davis for my graduate study in Electrical and Computer Engineering from Spring 2021. My current interests include research in Parallel Computing. [[Curriculum Vitae](http://marjerie.com/files/marjerie_cv.pdf)]
+* I will be joining Univerisity of California, Davis for my graduate study in Electrical and Computer Engineering from Spring 2021. My current interests include research in Parallel Computing. [[Curriculum Vitae](http://marjerie.github.io/files/marjerie_cv.pdf)]
 
 * I received my Bachelor's degree in Electronics and Communications Engineering from SSN College of Engineering, Anna University, Chennai, India.
