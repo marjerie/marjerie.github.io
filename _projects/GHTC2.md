@@ -8,6 +8,8 @@ date: 2020-11-15
 location: "Washington, USA"
 ---
 
+Raj Vignesh Karunakaran, Rohitaa Ravikumar, Karthni Lakshmanan, **Marjerie Suresh**, Vineeth Vijayaraghavan
+
 ## Overview
 
 *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.
