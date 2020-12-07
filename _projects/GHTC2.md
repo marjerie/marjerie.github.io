@@ -12,5 +12,5 @@ location: "Washington, USA"
 
 *	Developed an algorithm to improve irrigation load in rural microgrid clusters using Python.
 *	Enhances the irrigation load efficiency by 9.1 percent and amount of irrigation by 22.6 percent. 
-* Accepted for presentation at the 2020 Annual IEEE Global Humanitarian Technology Conference.
+* Presented the paper at the 2020 Annual IEEE Global Humanitarian Technology Conference.
 
