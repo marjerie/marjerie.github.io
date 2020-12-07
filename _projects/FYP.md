@@ -8,7 +8,7 @@ date: 2020-02-15
 location: "Chennai, India"
 
 ---
-**[[Get PDF]](https://marjerie.github.io/files/FYP.pdf)**
+**[[Get PDF]](https://marjerie.github.io/files/Camera-ready-copy-NCICT-33.pdf)**
 
 **Marjerie S**, Aditi Balgujar A, Muthukumaran A, Kishore R
 
