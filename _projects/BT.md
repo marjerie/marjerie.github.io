@@ -11,9 +11,9 @@ location: "Chennai, India"
 
 ## Introduction
 
+Parallel Bloom Tree is a space-efficient representation for graphs using bloom filters to store graphs in a compact manner. MurmurHash3 has been used as the hash function in the bloom filter. The performance of the implementation is tested on the three algorithms namely Breadth First Search, Greedy Vertex Coloring and Tarjan's Strongly Connected Components algorithm.
 
-## Bloom Tree
-
+**Code for the project can be found [here](https://github.com/marjerie/bloomtree-cuda).**
 
 ## Graph Operations
 
@@ -46,7 +46,7 @@ any other thread, which has completed its execution, has not found a missing bit
 
 ## Performance Evaluation
 
-The defined functions were tested on a set of three algorithms, Breadth First Search (BFS), Vertex Coloring (VC), and Strongly Connected Components (SCC),
+The defined functions were tested on a set of three algorithms, Breadth First Search (BFS), Greedy Vertex Coloring (VC), and Tarjan's Strongly Connected Components (SCC),
 to assess their performance. The GPU device used was NVIDIA Tesla T4 on Google Colaboratory. Four graphs from the SNAP dataset [2] were chosen to run the algorithms.
 
 **Test Data**
@@ -60,12 +60,6 @@ The dataset to test the implementation was obtained from the Stanford Network An
 **Evaluation parameter**
 
 The **Execution Time** is the evaluation parameter considered. It is measured in ms. This is the time taken to run the algorithms assuming that the data is already present in the GPU. That is, the transfer time for data from CPU to GPU and vice versa are ignore
-
-**Breadth First Search (BFS)**
-
-**Vertex Coloring (VC)**
-
-**Strongly Connected Components (SCC)**
 
 **Results and Discussion**
 
