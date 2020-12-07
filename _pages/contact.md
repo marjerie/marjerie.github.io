@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: marjerie.suresh [at] gmail.com 
+Email: marjerie.suresh [at] gmail.com / msuresh [at] ucdavis.edu
