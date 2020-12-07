@@ -23,7 +23,7 @@ Skills
 
 Experience
 ======
-**Project Intern**, IIT Madras <br>
+**Project Intern**, Indian Institute of Technology - Madras <br>
 *June 2020 - October 2020* <br>
 **[(See Work)](https://marjerie.github.io/projects/BT)**
 * Worked on the CUDA implementation of Parallel BloomTree - a space-efficient approximate representation for graphs using bloom filters for GPU under Dr. Rupesh Nasre.
