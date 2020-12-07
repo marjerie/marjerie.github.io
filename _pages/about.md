@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have completed my Bachelor's degree in Electronics and Communications Engineering from SSN College of Engineering, Anna University, Chennai, India. I will be joining Univerisity of California, Davis for my graduate study in Electrical and Computer Engineering from Spring 2021. My current interests include research in Parallel Computing. 
+
+* I will be joining Univerisity of California, Davis for my graduate study in Electrical and Computer Engineering from Spring 2021. My current interests include research in Parallel Computing. 
+
+* I received my Bachelor's degree in Electronics and Communications Engineering from SSN College of Engineering, Anna University, Chennai, India.
