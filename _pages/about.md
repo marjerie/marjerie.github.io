@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student pursuing a Bachelor's degree in Electronics and Communications Engineering from Sri Sivasubramaniya Nadar College of Engineering. My interests include research in Computer Architecture and Parallel Computing. 
+I have completed my Bachelor's degree in Electronics and Communications Engineering from Sri Sivasubramaniya Nadar College of Engineering, Anna University, Chennai, India. I will be joining Univerisity of California, Davis for my graduate study in Electrical and Computer Engineering from Spring 2021. My current interests include research in Computer Architecture and Parallel Computing. 
