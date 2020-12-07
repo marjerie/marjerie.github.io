@@ -26,6 +26,10 @@ for all the set of nodes and then traverse upwards from the nodes towards its LC
 The set of nodes are taken as source and destination and the algorithm is used to set the appropriate bits. In this case, the memory requirement is significantly 
 reduced as only the corresponding LCA value needs to be stored for every edge to be inserted.
 
+<p align="center">
+  <img src="https://marjerie.github.io/files/bt3.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 **API: Neighbours of p’**
 
 This function can be used to identify the neighbours of a node. The node, p’, is checked if it is a neighbour to every other node parallelly. 
