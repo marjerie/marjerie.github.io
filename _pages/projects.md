@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Internship Projects**
+Internship Projects
+========
 
 <b>Project Intern, Indian Institute of Technology - Madras </b> <br>
 <b>[CUDA implementation of Parallel BloomTree](https://marjerie.github.io/projects/BT)</b> <br>
@@ -24,7 +25,8 @@ Tools used: Python <br>
 *April 2018 - May 2020*
 
 
-**College Projects**
+College Projects
+===========
 
 <b>[Air Pollution based Routing Algorithm for VANETs](https://marjerie.github.io/projects/FYP)</b> <br>
 Tools used: C++, OMNeT++, SUMO <br>
