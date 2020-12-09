@@ -26,7 +26,7 @@ Experience
 **Project Intern**, Indian Institute of Technology - Madras <br>
 *June 2020 - October 2020* <br>
 **[(See Work)](https://marjerie.github.io/projects/BT)**
-* Worked on the CUDA implementation of Parallel BloomTree - a space-efficient approximate representation for graphs using bloom filters for GPU under Dr. Rupesh Nasre.
+* Worked on the CUDA implementation of Parallel BloomTree - a space-efficient approximate representation for graphs using bloom filters for GPU under [Dr. Rupesh Nasre](http://www.cse.iitm.ac.in/~rupesh/).
 * Tested the performance of the implementation on the Breadth-first search, Greedy vertex colouring and Tarjan's strongly connected components algorithms.
 
 **Undergraduate Research Assistant**, Solarillion Foundation 							   
@@ -53,6 +53,7 @@ Courses and Certifications
 * Multi-Core Computer Architecture - Storage and Interconnects, IIT Guwahati (OCW)
 * [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), NPTEL, IIT Madras
 * [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), NPTEL, IIT Madras & Google
+* High Performance Computing Basics (Ongoing), National Supercomputing Mission 
 
 Publications
 ======
@@ -78,3 +79,4 @@ Volunteer Experience
 2019 **Reviewer**, IEEE Texas Power and Energy Conference (TPEC) - 2020 <br>
 2019 **Event Head**, National Technical Fest - Invente <br>
 2018 **Organiser**, Digital Electronics Workshop - IEEE Communications Society 	
+
