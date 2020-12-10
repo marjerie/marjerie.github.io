@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I will be joining Univerisity of California, Davis for my Master's in Electrical and Computer Engineering from Spring 2021. 
+* I will be joining University of California, Davis for my Master's in Electrical and Computer Engineering from Spring 2021. 
 
 * My research interests: Parallel Programming and Computer Architecture. [[Curriculum Vitae](http://marjerie.github.io/cv/)]
 
