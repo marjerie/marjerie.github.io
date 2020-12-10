@@ -63,7 +63,7 @@ The dataset to test the implementation was obtained from the Stanford Network An
 
 **Evaluation parameter**
 
-The **Execution Time** is the evaluation parameter considered. It is measured in ms. This is the time taken to run the algorithms assuming that the data is already present in the GPU. That is, the transfer time for data from CPU to GPU and vice versa are ignore
+The **Execution Time** is the evaluation parameter considered. It is measured in ms. This is the time taken to run the algorithms assuming that the data is already present in the GPU. That is, the transfer time for data from CPU to GPU and vice versa are ignored.
 
 **Results and Discussion**
 
