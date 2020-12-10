@@ -22,7 +22,7 @@ Parallel Bloom Tree is a space-efficient representation for graphs using bloom f
 To insert an edge, the bits along the unique path between the two nodes, p’ and q’, must be set in accordance with the rules of Bloom Tree implementation. 
 When inserting multiple edges in parallel, determining the unique paths between all the set of nodes first and then traversing the paths to set the values 
 is not a feasible solution due to large memory requirement for the storage of the paths. A better method is to identify the Lowest Common Ancestor (LCA) [1] which is 
-calculated using the function Calculate_LCA in the Algorithm 1 for all the set of nodes. Then, the function Source_LCA_Traversal to traverse upwards from the source nodes towards its LCA while simultaneously setting the appropriate bits as shown. Similarly, the function Destination_LCA_Traversal is used to traverse and set the appropriate bits in the bloom filter from the destination nodes to the LCA.
+calculated using the function Calculate_LCA in the Algorithm 1 for all the set of nodes. Then, the function Source_LCA_Traversal is used to traverse upwards from the source nodes towards its LCA while simultaneously setting the appropriate bits as shown. Similarly, the function Destination_LCA_Traversal is used to traverse and set the appropriate bits in the bloom filter from the destination nodes to the LCA.
 The set of nodes are taken as source and destination and the algorithm is used to set the appropriate bits. In this case, the memory requirement is significantly 
 reduced as only the corresponding LCA value needs to be stored for every edge to be inserted.
 
