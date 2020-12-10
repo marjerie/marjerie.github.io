@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Electronics and Communication Engineering, SSN College of Engineering, Anna University, 2020
+* B.E. in Electronics and Communication Engineering, SSN College of Engineering, Anna University, 2020 <br>
+*CGPA: 8.41/10*
 
 Skills
 ======
