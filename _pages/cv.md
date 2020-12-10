@@ -71,7 +71,7 @@ Honors and Awards
 ======
 
 2019 **Semi-finalist**, Smart India Hackathon 2019 – Hardware Edition <br>
-2018 **Funding for “Autonomous Rubik’s Cube Solver”** (INR ₹24,000), The SSN Trust <br>
+2018 **Funding for “Rubik’s Cube Solver Bot”** (INR ₹24,000), The SSN Trust <br>
 2017 **Innovator of the year - Runner**, IEEE Communications Society 
 
 Volunteer Experience
