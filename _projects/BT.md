@@ -11,7 +11,7 @@ location: "Chennai, India"
 
 ## Introduction
 
-Parallel Bloom Tree is a space-efficient representation for graphs using bloom filters to store graphs in a compact manner. MurmurHash3 has been used as the hash function in the bloom filter. The performance of the implementation is tested on the three algorithms namely Breadth First Search, Greedy Vertex Coloring and Tarjan's Strongly Connected Components algorithm.
+Parallel Bloom Tree is a space-efficient representation for graphs using bloom filters to store graphs in a compact manner on GPU. MurmurHash3 has been used as the hash function in the bloom filter. The performance of the implementation is tested on the three algorithms namely Breadth First Search, Greedy Vertex Coloring and Tarjan's Strongly Connected Components algorithm.
 
 **Code for the project can be found [here](https://github.com/marjerie/bloomtree-cuda).**
 
