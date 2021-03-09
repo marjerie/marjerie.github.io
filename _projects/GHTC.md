@@ -15,7 +15,7 @@ Hari Vignesh Baskar, <b>Marjerie Suresh</b>, Abishek Coimbatore Sridhar, Sai Sha
 *	Designed a dynamic load profile for agricultural demand in rural India with crop yield and weather data.
 *	Developed the Smart Energy Transfer Algorithm (SETA) on Python to promote interconnection of systems and efficient energy transfer and utilization between the two systems.
 *	Improves the system efficiency by 10.5 percent and agricultural efficiency by 13 percent.
-*	Published in 2019 IEEE Global Humanitarian Technology Conference proceedings. [(here)](https://ieeexplore.ieee.org/abstract/document/9033013)
+*	Published in the 2019 IEEE Global Humanitarian Technology Conference proceedings. [(here)](https://ieeexplore.ieee.org/abstract/document/9033013)
 
 **The code for the work is found [here](https://github.com/marjerie/Interconnection-of-Microgrid-and-Irrigation-System).**
 
