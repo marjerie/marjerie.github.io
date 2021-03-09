@@ -54,10 +54,14 @@ Courses and Certifications
 * Multi-Core Computer Architecture - Storage and Interconnects, IIT Guwahati (OCW)
 * [Deep Learning](https://drive.google.com/file/d/17HrWeTtodEk6uZL4Yr0XP_hZi890XhRi/view), NPTEL, IIT Madras
 * [Practical Machine Learning with Tensorflow](https://drive.google.com/file/d/1Uu3NHRoDoHvk-WvVAtCYD5rgXAW4bFnV/view), NPTEL, IIT Madras & Google
-* High Performance Computing Basics (Ongoing), National Supercomputing Mission 
+* High Performance Computing Basics, National Supercomputing Mission
 
 Publications
 ======
+
+<b>[Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters](https://marjerie.github.io/projects/GHTC2)</b><br>
+Raj Vignesh Karunakaran, Rohitaa Ravikumar, Karthni Lakshmanan, <b>Marjerie Suresh</b>, Vineeth Vijayaraghavan.<br>
+<i>2020 IEEE Global Humanitarian Technology Conference (GHTC)</i>.
 
 <b>[Smart Energy Routing For Rural Islanded Microgrid Clusters](https://marjerie.github.io/projects/TPEC)</b> <br> 
 <b>Marjerie Suresh</b>, Janani Jayaraman, Karthni Lakshmanan, Aswin Gopikanna, Vineeth Vijayaraghavan.<br>
